@@ -4,7 +4,7 @@
         <description><![CDATA[You & I]]></description>
         <link>https://thegrid.ai/bri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 18:43:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bri/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeds are Beginnings]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bri/b4794cd9-b754-4c2d-8b79-fbd0b67055ef/index.html</link>
             <guid isPermaLink="false">b4794cd9-b754-4c2d-8b79-fbd0b67055ef</guid>
             <pubDate>Fri, 04 Mar 2016 17:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I believe that we will win]]></title>
+            <description><![CDATA[<article><h1>I believe that we will win</h1><p>Amani misses you by the way</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b4af25bd20629fe7643e7ccc202cb1a0e52e48a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bri/i-believe-that-we-will-win/index.html</link>
+            <guid isPermaLink="false">25ff2df4-c0a2-4533-a4ce-f2c8fa16ac37</guid>
+            <pubDate>Fri, 04 Mar 2016 18:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‎Saturday, ‎October ‎04, ‎2014, ‏‎9:26:24 PM]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bri/did-you-know/index.html</link>
             <guid isPermaLink="false">ac89ad22-ab2e-49a4-adcd-366969d70f7d</guid>
             <pubDate>Fri, 04 Mar 2016 16:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's true, you will be missed]]></title>
-            <description><![CDATA[<article><h1>It's true, you will be missed</h1><p>Because who wouldn't miss having meetings with you...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0244117f09bfa03b79818d12da01d58cb5dba4d2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bri/kia-and-food-luvin/index.html</link>
-            <guid isPermaLink="false">42709e01-a6a4-484e-aa98-9b39bd425761</guid>
-            <pubDate>Fri, 04 Mar 2016 18:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
