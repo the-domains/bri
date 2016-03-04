@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T10:21:36.564Z'
-dateModified: '2016-03-04T10:21:04.802Z'
+datePublished: '2016-03-04T12:15:19.069Z'
+dateModified: '2016-03-04T12:15:08.695Z'
 title: A long time ago in a land far far away...
 author: []
+sourcePath: _posts/2016-03-04-a-long-time-ago-in-a-land-far-far-away.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-a-long-time-ago-in-a-land-far-far-away.md
-published: true
 url: a-long-time-ago-in-a-land-far-far-away/index.html
 _type: Article
 
