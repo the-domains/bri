@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T16:58:58.391Z'
-dateModified: '2016-03-04T16:58:53.305Z'
-title: A long time ago in a land far far away...
+datePublished: '2016-03-04T18:15:14.933Z'
+dateModified: '2016-03-04T18:14:27.978Z'
+title: 'Many moons ago around a block:'
 author: []
 sourcePath: _posts/2016-03-04-a-long-time-ago-in-a-land-far-far-away.md
 published: true
@@ -22,7 +22,7 @@ url: a-long-time-ago-in-a-land-far-far-away/index.html
 _type: Article
 
 ---
-# A long time ago in a land far far away...
+# Many moons ago around a block:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa413645-3e33-4847-89dc-112552e9033b.jpg)
 
 > Goofy, funny, love
