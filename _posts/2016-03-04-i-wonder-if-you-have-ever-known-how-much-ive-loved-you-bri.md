@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T13:39:51.863Z'
-dateModified: '2016-03-04T13:39:05.746Z'
+datePublished: '2016-03-04T13:54:12.450Z'
+dateModified: '2016-03-04T13:51:55.960Z'
 title: "I wonder if you have ever known how much I've loved you Bri. "
 author: []
+sourcePath: _posts/2016-03-04-i-wonder-if-you-have-ever-known-how-much-ive-loved-you-bri.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-i-wonder-if-you-have-ever-known-how-much-ive-loved-you-bri.md
-published: true
 url: i-wonder-if-you-have-ever-known-how-much-ive-loved-you-bri/index.html
 _type: Article
 
