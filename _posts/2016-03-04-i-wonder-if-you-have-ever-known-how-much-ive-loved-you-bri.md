@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:59:18.919Z'
-dateModified: '2016-03-04T20:59:18.595Z'
+datePublished: '2016-03-04T22:48:13.030Z'
+dateModified: '2016-03-04T22:48:00.726Z'
 title: "I wonder if you have ever known how much I've loved you Bri. "
 author: []
 sourcePath: _posts/2016-03-04-i-wonder-if-you-have-ever-known-how-much-ive-loved-you-bri.md
@@ -45,7 +45,9 @@ You truly are the most wonderful person I have ever met in my whole life, you ar
 I will miss you so so so much Briana, I don't think you actually know how much. Everyday I am freaking out thinking about not seeing you again. Because even when you made me invisible I was at least lucky enough to take a peek at you. I wish I never had to say goodbye. I don't want to say good bye. Because this just can't be real. I won't Bri. I won't. I never want to not see you again, I hate this, I hate it.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a02eefa2-2c64-4c05-aca6-43f39bc01b9b.jpg)
 
-I hope this all meant something, you have changed my life. And I think you will forever be in my heart, So I hope this means something. 
+I hope this all meant something, you have changed my life. And I think you will forever be in my heart, So I hope this means something
+
+> "La más excelente de ellas es el amor."
 
 Sometimes I feel that perhaps for you it didn't mean anything anymore, and then I feel so confused (even more) - But I hope it meant something, and I hope it means something.
 My love for you is beyond anything I can express or write down, and I don't think I will every stop loving you. I don't know how. But regardless, I hope that it means something to you, because to me it has, it does, and it always will.
