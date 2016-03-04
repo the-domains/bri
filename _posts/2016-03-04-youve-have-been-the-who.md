@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T12:48:02.591Z'
-dateModified: '2016-03-04T12:48:01.863Z'
+datePublished: '2016-03-04T13:57:24.730Z'
+dateModified: '2016-03-04T13:56:41.944Z'
 title: "You have been the 'Who'"
 author: []
 sourcePath: _posts/2016-03-04-youve-have-been-the-who.md
@@ -29,7 +29,7 @@ _type: Article
 _Estas muy muy brava! - mi cara es cara de miedo_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7c3b41-11dc-4fed-aea1-41612ad04457.jpg)
 
-Jeje, pero no me pudiste resister - como me duele que hoy tus ojos nunca miran los mios.
+Jeje, pero no me pudiste resistir - como me duele que hoy tus ojos nunca miran los mios.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13cd8ef-795d-4b4b-9b17-d9b1a0e1d883.jpg)
 
 VICTORY! We got our pic!
