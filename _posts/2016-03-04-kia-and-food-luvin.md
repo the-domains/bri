@@ -6,33 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T10:40:25.824Z'
-dateModified: '2016-03-04T10:40:20.231Z'
+datePublished: '2016-03-04T15:08:39.041Z'
+dateModified: '2016-03-04T14:03:52.780Z'
 title: "Kia & Food Luvin'"
 author: []
+sourcePath: _posts/2016-03-04-kia-and-food-luvin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-kia-and-food-luvin.md
-published: true
 url: kia-and-food-luvin/index.html
 _type: Article
 
 ---
 > I took this picture to forever remember how beautiful you looked in this very instant
-> 
-> 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2367432-0625-492c-84ec-5873953d9be7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c162e167-4b1d-4737-b94f-bb6f5fed0bb5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bd6c3a1e7c8070e8c94edad84d4322a46649db5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6507fd86-7b45-4a21-b475-9007702318dc.jpg)
 
 > "I am on a seafood diet, I see food and I eat it"
-> 
-> 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fc937b0-6cce-459e-99d5-7c8ce74962fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63b931f-3512-4040-8920-c89cb7b90763.jpg)
