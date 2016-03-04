@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:27:33.355Z'
-dateModified: '2016-03-04T11:27:01.679Z'
+datePublished: '2016-03-04T12:43:54.032Z'
+dateModified: '2016-03-04T12:43:53.588Z'
 title: 'Goofy, Funny, Love'
 author: []
+sourcePath: _posts/2016-03-04-goofy-funny-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-goofy-funny-love.md
-published: true
 url: goofy-funny-love/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf7cc8c8-3582-4884-acd3-fb7120b4d17e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/753049f9-08f7-4201-ad40-c585cdc5d832.jpg)
 
-> And yes, of course you guys played an influence in my car choice... yes 
+> And yes, Mallory was right...of course you guys played a big influence in my car choice... yes, you did. 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/270bc52d-5a6f-43fd-9d40-ce280cf7da69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89fc3dfe-1cdc-4cce-b22d-93f46638f099.jpg)
