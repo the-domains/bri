@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T15:38:26.936Z'
-dateModified: '2016-03-04T15:38:07.608Z'
+datePublished: '2016-03-04T18:07:46.834Z'
+dateModified: '2016-03-04T18:07:46.448Z'
 title: 'Goofy, Funny, Love'
 author: []
 sourcePath: _posts/2016-03-04-goofy-funny-love.md
