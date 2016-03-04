@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T14:05:26.672Z'
-dateModified: '2016-03-04T13:54:35.359Z'
+datePublished: '2016-03-04T14:08:59.711Z'
+dateModified: '2016-03-04T14:08:43.412Z'
 title: "I wonder if you have ever known how much I've loved you Bri. "
 author: []
 sourcePath: _posts/2016-03-04-i-wonder-if-you-have-ever-known-how-much-ive-loved-you-bri.md
@@ -40,7 +40,7 @@ And yes, I know what I've done as well, and the mistakes I made, and how I wish 
 Your silence has killed me, everyday I wanted to call you, everyday I wanted to walk by your office. But I didn't, because I'm so scared to see that you don't want to see me, I am so scared that if I look at you, you won't look at me back, and I'll be alone, I'm scared because that will kill me even more and it will breaks my heart all over again. I have felt so hated and heartbroken, I feel so disliked, and forgotten. But I remember moments such as these so I can smirk, and I focus on the fact that I do want you to be happy, I want you to be the happiest.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ddc680-8402-4da0-9b41-daa20a704243.jpg)
 
-You truly are the most wonderful person I have ever met in my whole life, you are the brightest light I have seen in this earthly world, you have given me hope when often it seems like the world is hopeless. This world needs your laughter, it needs your goofiness, it needs your love, it definitely needs your gorgeous smile. I have traveled at least 4 continents, dozens of countries, and hundreds of cities. I have met thousands and thousands of people, of all languages, and many cultures. I can tell you that as a fact of life... There is no one like you in this whole world.-Did hear that?- It's a fact Bri - I guarantee it. God has given you a light, and it has shined in my life for for the past couple of years, and it was the most awesome thing ever, as you can see in all the pictures. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07cb1cc5-c3ad-4ddc-bcb4-30cce332e997.jpg)
+You truly are the most wonderful person I have ever met in my whole life, you are the brightest light I have seen in this earthly world, you have given me hope when often it seems like the world is hopeless. This world needs your laughter, it needs your goofiness, it needs your love, it definitely needs your gorgeous smile. I have traveled at least 4 continents, dozens of countries, and hundreds of cities. I have met thousands and thousands of people, of all languages, and many cultures. I can tell you that as a fact of life... There is no one like you in this whole world.-Did hear that?- It's a fact Bri - I guarantee it. God has given you a light, and it has shined in my life for for the past couple of years, and it was the most awesome thing ever, as you can see in all the pictures. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24ac84f932e669224b818b9fafa4b3d46f1c21e.jpg)
 
 I will miss you so so so much Briana, I don't think you actually know how much. Everyday I am freaking out thinking about not seeing you again. Because even when you made me invisible I was at least lucky enough to take a peek at you. I wish I never had to say goodbye. I don't want to say good bye. Because this just can't be real. I won't Bri. I won't. I never want to not see you again, I hate this, I hate it.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a02eefa2-2c64-4c05-aca6-43f39bc01b9b.jpg)
