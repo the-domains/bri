@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:29:37.874Z'
-dateModified: '2016-03-04T20:22:32.600Z'
+datePublished: '2016-03-04T23:00:07.603Z'
+dateModified: '2016-03-04T23:00:07.169Z'
 title: Many moons ago going around ya old block
 author: []
 sourcePath: _posts/2016-03-04-many-moons-ago-going-around-ya-old-block.md
