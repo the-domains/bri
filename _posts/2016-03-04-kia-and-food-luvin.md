@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T18:33:48.659Z'
-dateModified: '2016-03-04T15:33:51.465Z'
+datePublished: '2016-03-04T18:43:30.068Z'
+dateModified: '2016-03-04T18:43:29.293Z'
 title: "Kia & Food Luvin'"
 author: []
 sourcePath: _posts/2016-03-04-kia-and-food-luvin.md
