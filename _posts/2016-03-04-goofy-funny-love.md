@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T12:43:54.032Z'
-dateModified: '2016-03-04T12:43:53.588Z'
+datePublished: '2016-03-04T15:38:26.936Z'
+dateModified: '2016-03-04T15:38:07.608Z'
 title: 'Goofy, Funny, Love'
 author: []
 sourcePath: _posts/2016-03-04-goofy-funny-love.md
@@ -34,6 +34,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2585a646-98eb-4b0a-95c8-ac5a658f9398.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8609bfb1-9c42-4bea-bbb2-70744e4c5a43.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89841c63-0f92-4684-9e6a-adcef2486c02.jpg)
+
+> :-)
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76240504-ab96-4e69-afc8-062989e168a9.jpg)
 
 > It's okay, it's okay, monster's here, monster's here
