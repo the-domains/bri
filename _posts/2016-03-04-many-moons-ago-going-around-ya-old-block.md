@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:22:23.120Z'
-dateModified: '2016-03-04T20:21:53.116Z'
+datePublished: '2016-03-04T20:29:37.874Z'
+dateModified: '2016-03-04T20:22:32.600Z'
 title: Many moons ago going around ya old block
 author: []
+sourcePath: _posts/2016-03-04-many-moons-ago-going-around-ya-old-block.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-many-moons-ago-going-around-ya-old-block.md
-published: true
 url: many-moons-ago-going-around-ya-old-block/index.html
 _type: Article
 
