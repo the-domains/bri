@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:07:46.830Z'
-dateModified: '2016-03-04T11:07:09.244Z'
+datePublished: '2016-03-04T15:08:38.951Z'
+dateModified: '2016-03-04T14:01:51.942Z'
 title: "Science isn't about 'The Why,' it's about 'The Why Not?'"
 author: []
+sourcePath: _posts/2016-03-04-science-isnt-about-the-why-its-about-the-why-not.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-science-isnt-about-the-why-its-about-the-why-not.md
-published: true
 url: science-isnt-about-the-why-its-about-the-why-not/index.html
 _type: Article
 
@@ -50,3 +50,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bd986b3-3b2e-48db-961d-4116a6528688.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be628e2c-dc11-4f98-b4fb-56d1e504a79f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6361f3-9a6d-473f-b337-c2ce9151fec7.jpg)
+
+> "Gravitation is not responsible for people falling in love." - Albert Einstein
